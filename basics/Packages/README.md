@@ -8,3 +8,6 @@
 
 ### go run
 ![image](https://github.com/user-attachments/assets/5963d168-ace8-4ac4-8b94-25c25961b3c6)
+
+### Reference
+[Basics/Packages](https://go.dev/tour/basics/1)<br>
