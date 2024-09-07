@@ -19,3 +19,4 @@ func split(sum int) (x, y int) {
 
 ### Reference
 [Basics/Named return values](https://go.dev/tour/basics/7)<br>
+[The benefit of using named return values in Golang](https://medium.com/@xcoulon/the-benefit-of-using-named-return-values-in-golang-7a946bdc0894)<br>
