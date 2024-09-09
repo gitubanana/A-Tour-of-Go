@@ -11,6 +11,7 @@ for i := 0; i < 10; i++ {
 > [!Note]
 > 다른 언어와 다르게, `Go`의 `for`문에는 `()`이 없다. (처음 보는 for문의 생김새에 놀랐다.) <br>
 > 또한, `{}`는 항상 있어야 한다. (C/C++에서는 for문 안이 한 줄일 때는 생략 가능했는데...)<br>
+> 심지어, `++i`도 안 된다. ㅜㅜ<br>
 
 ### go run
 ![image](https://github.com/user-attachments/assets/f9b5cb6a-fa73-4cca-98ee-9b9e78337584)
