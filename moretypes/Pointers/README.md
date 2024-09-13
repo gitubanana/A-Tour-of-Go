@@ -18,7 +18,7 @@ fmt.Println(*p)
 > [!NOTE]
 > 여기까지만 보면, `C`와 똑같이 보이지만<br>
 > `C`와 다르게, `Go`에는 포인터 연산이 없다. (ㅠㅠ)<br>
-> 즉, `p++`을 할 수 없다.<br>
+> 즉, `p++`나 `p[1]`을 할 수 없다.<br>
 
 ### go run
 ![image](https://github.com/user-attachments/assets/94b70068-f8d6-42e8-98f7-bfa2f2c78e97)
