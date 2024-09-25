@@ -12,7 +12,7 @@ v := <-ch // Receive from ch, and assign value to v.
 ch := make(chan int)
 ```
 
-기본적으로, 받기와 보내기는 다른 한 쪽이 준비될 때까지 블락된다.<br>
+기본적으로, 값을 `받기`와 `보내기`는 다른 한 쪽이 준비될 때까지 블락된다.<br>
 이 덕분에 `lock`혹은 상태 변수 없이도 `goroutine`을 동기화시킬 수 있다.<br>
 ```go
 package main
